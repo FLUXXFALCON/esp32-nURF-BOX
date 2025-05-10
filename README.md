@@ -8,7 +8,7 @@
 
 <!-- Badges -->
 <a href="https://github.com/FLUXXFALCON/esp32-nURF-BOX" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=FLUXXFALCON&message=nurfbox&color=purple&logo=github" alt="FLUXXFALCON - nurfbox"></a>
-![GitHub Downloads (all assets, all releases)](https://github.com/FLUXXFALCON/esp32-nURF-BOX/total)
+![GitHub Downloads (all assets, all releases)](https://github.com/FLUXXFALCON/esp32-nURF-BOX)
 <a href="https://github.com/cifertech/nrfbox"><img src="https://img.shields.io/github/stars/cifertech/nrfbox?style=social" alt="stars - nrfbox"></a>
 <a href="https://github.com/cifertech/nrfbox"><img src="https://img.shields.io/github/forks/cifertech/nrfbox?style=social" alt="forks - nrfbox"></a>
 
