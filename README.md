@@ -1,4 +1,3 @@
----
 ![Scanner Menüsü](https://github.com/FLUXXFALCON/esp32-nURF-BOX/blob/main/images/logo.png)
 
 
@@ -84,6 +83,3 @@ Eğer bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları izleyebil
 
 Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
----
-
-Resimlere bağlantı eklemek için her resmin GitHub'da veya başka bir uygun yerde barındırıldığından emin olmalısınız. Eğer resimler projeye dahil edilecekse, resimleri depoya yükleyebilir ve uygun bağlantıları kullanabilirsiniz.
