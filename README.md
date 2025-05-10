@@ -1,5 +1,6 @@
 ---
-![Scanner Menüsü]([https://github.com/FLUXXFALCON/esp32-nURF-BOX/images/logo.png](https://github.com/FLUXXFALCON/esp32-nURF-BOX/blob/main/images/logo.png))
+![Scanner Menüsü](https://github.com/FLUXXFALCON/esp32-nURF-BOX/blob/main/images/logo.png)
+
 
 # nURF-BOX
 
