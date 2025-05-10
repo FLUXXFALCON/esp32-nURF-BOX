@@ -1,5 +1,6 @@
 ---
-![Scanner Menüsü](C:\Users\fluxx\Desktop\ESP32\Screenshot 2025-05-10 202613.png)
+![Scanner Menüsü](https://github.com/FLUXXFALCON/esp32-nURF-BOX/images/logo.png)
+
 # nURF-BOX
 
 `nURF-BOX`, ESP32 tabanlı gelişmiş bir kablosuz araç kutusudur. Bu proje, birçok kablosuz protokol ve güvenlik aracını bir araya getirir. Bu araçlar arasında Wi-Fi analiz, Bluetooth jammer, Evil Twin saldırıları ve IR kontrol gibi işlevler bulunur.
