@@ -14,13 +14,11 @@
 
 
 <h4>
-    <a href="https://twitter.com/techcifer">TWITTER</a>
+    <a href="https://guns.lol/fluxxfalcon">TWITTER</a>
   <span> · </span>
-    <a href="https://www.instagram.com/cifertech/">INSTAGRAM</a>
+    <a href="https://www.instagram.com/fluxxfalcon/">INSTAGRAM</a>
   <span> · </span>
-    <a href="https://www.youtube.com/@techcifer">YOUTUBE</a>
-  <span> · </span>
-    <a href="https://cifertech.net/">WEBSITE</a>
+    <a href="https://www.youtube.com/@FluxxFalcon">YOUTUBE</a>
   </h4>
 </div>
 <br/>
