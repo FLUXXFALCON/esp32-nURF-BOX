@@ -1,5 +1,5 @@
 ---
-![Scanner Menüsü](https://github.com/KullaniciAdi/esp32-nURF-BOX/blob/main/images/Screenshot%202025-05-10%20202613.png)
+![Scanner Menüsü](https://github.com/FLUXXFALCON/esp32-nURF-BOX/blob/main/images/Screenshot%202025-05-10%20202613.png)
 
 # nURF-BOX
 
