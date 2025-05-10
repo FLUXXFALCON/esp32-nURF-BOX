@@ -14,7 +14,7 @@
 
 
 <h4>
-    <a href="https://guns.lol/fluxxfalcon">TWITTER</a>
+    <a href="https://guns.lol/fluxxfalcon">My Bio</a>
   <span> · </span>
     <a href="https://www.instagram.com/fluxxfalcon/">INSTAGRAM</a>
   <span> · </span>
