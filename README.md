@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/62047147/195847997-97553030-3b79-4643-9f2c-1f04bba6b989.png" alt="logo" width="100" height="auto" />
+  <img src="https://github.com/FLUXXFALCON/esp32-nURF-BOX/blob/main/images/logo.png" alt="logo" width="100" height="auto" />
 
-  <h1> nRFBOX </h1>
+  <h1> nURFBOX </h1>
   <p> All-in-One Gadget for BLE and 2.4GHz Networks </p>
 
 
