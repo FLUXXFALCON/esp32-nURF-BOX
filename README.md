@@ -3,7 +3,7 @@
   <img src="https://github.com/FLUXXFALCON/esp32-nURF-BOX/blob/main/images/logo.png" alt="logo" width="100" height="auto" />
 
   <h1> nURFBOX </h1>
-  <p> All-in-One Gadget for BLE and 2.4GHz Networks </p>
+  <p> BLE ve 2.4GHz Ağları için All-in-One Sistem </p>
 
 
 <!-- Badges -->
